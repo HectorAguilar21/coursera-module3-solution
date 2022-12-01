@@ -1,0 +1,36 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 16px;
+    background-color: rgb(211, 211, 211);
+}
+
+#menu-title {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.navbar {
+    background-color: grey;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.navbar-brand {
+    padding-left: 20px;
+}
+
+.navbar-toggler {
+    margin-right: 20px;
+}
+
+.navbar-collapse {
+    margin-top: 10px;
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style: none;
+}
